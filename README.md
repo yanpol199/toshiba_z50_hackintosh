@@ -9,7 +9,7 @@ Open core loader for start mac os
 | GPU           | Intel HD Graphics 4400                          |
 | Drive         | mSATA SSD                                       |
 | Sound card    | Realtek                                         |
-| Wireless card | Intel 7260                                      |
+| Wireless card | Apple Broadcom BCM94360CS2                      |
 | Display       | LVDS display connected to internal converter    |
 
 ## Prerequisites
@@ -29,7 +29,6 @@ Change the following settings before you boot into the macOS installer:
 - Power Managements → Intel Turbo Boost: Enabled
 - Power Managements → SATA Interface Technology: Performance
 - Advanced → USB Power in Sleep Mode: Disabled
-- Advanced \ System Configuration → Boot Mode: CSM Boot
 
 ## Credits
 
