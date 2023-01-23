@@ -11,7 +11,7 @@ for install need add new macmodel and serial
 | GPU           | Intel HD Graphics 4400                          |
 | Drive         | mSATA SSD                                       |
 | Sound card    | Realtek ALC263                                  |
-| WAN           | Apple Broadcom BCM94360CS2                      |
+| WLAN          | Apple Broadcom BCM94360CS2                      |
 | LAN           | Intel                                           |
 | WWAN          | Sierra Wireless Airprime EM7345                 |
 | Display       | LVDS display 1366x768 (for fullHD del AAPL00)   |
