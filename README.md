@@ -1,5 +1,6 @@
 # toshiba_z50_hackintosh
 loader for start mac os
+for install need add new macmodel and serial
 ## Hardware
 
 | Type          | Name                                            |
