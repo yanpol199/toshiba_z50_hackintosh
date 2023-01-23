@@ -6,8 +6,8 @@ for install need add new macmodel and serial
 
 | Type          | Name                                            |
 | ------------- | ----------------------------------------------- |
-| CPU           | Intel i5-4310U 2.0GHz/3MB                       |
-| RAM           | DDR3l 1600MHz 16GB (2 x 8GB)                    |
+| CPU           | Intel i5\i7 4xxxU                               |
+| RAM           | 2xDDR3l 1600MHz                                 |
 | GPU           | Intel HD Graphics 4400                          |
 | Drive         | mSATA SSD                                       |
 | Sound card    | Realtek                                         |
