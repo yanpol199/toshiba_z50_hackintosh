@@ -12,7 +12,7 @@ for install need add new macmodel and serial
 | Drive         | mSATA SSD                                       |
 | Sound card    | Realtek                                         |
 | Wireless card | Apple Broadcom BCM94360CS2                      |
-| Display       | LVDS display connected to internal converter    |
+| Display       | LVDS display 1366x768(for fullHD del AAPL00)    |
 
 ## Prerequisites
 
