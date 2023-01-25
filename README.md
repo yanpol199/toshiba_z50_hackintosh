@@ -9,11 +9,11 @@ for install need add new macmodel and serial
 | CPU           | Intel i5\i7 4xxxU                               |
 | RAM           | 2xDDR3l 1600MHz                                 |
 | GPU           | Intel HD Graphics 4400                          |
-| Drive         | mSATA SSD                                       |
+| Drive         | mSATA\SATA drive                                |
 | Sound card    | Realtek ALC263                                  |
 | WLAN          | Apple Broadcom BCM94360CS2                      |
 | LAN           | Intel                                           |
-| WWAN          | Sierra Wireless Airprime EM7345                 |
+| WWAN          | Sierra Wireless Airprime EM7305                 |
 | Display       | LVDS display 1366x768 (for fullHD del AAPL00)   |
 
 
