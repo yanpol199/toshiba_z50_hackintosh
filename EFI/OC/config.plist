@@ -819,7 +819,7 @@
 			<key>BlacklistAppleUpdate</key>
 			<true/>
 			<key>DmgLoading</key>
-			<string>Signed</string>
+			<string>Any</string>
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
@@ -917,15 +917,17 @@
 				<key>boot-args</key>
 				<string>darkwake=0 keepsyms=1 debug=0x100</string>
 				<key>prev-lang:kbd</key>
-				<string></string>
+				<string>en-US:0</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
+				<key>csr-active-config</key>
+				<data>AAAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
 		<key>LegacyOverwrite</key>
-		<true/>
+		<false/>
 		<key>WriteFlash</key>
 		<true/>
 		<key>LegacySchema</key>
