@@ -10,12 +10,13 @@ for install need add new macmodel and serial
 | RAM           | 2xDDR3l 1600MHz                                 |
 | GPU           | Intel HD Graphics 4400                          |
 | Drive         | mSATA\SATA drive                                |
-| Sound card    | Realtek ALC263                                  |
+| Sound card    | Realtek ALC283                                  |
 | WLAN          | Apple Broadcom BCM94360CS2                      |
 | LAN           | Intel                                           |
 | WWAN          | Sierra Wireless Airprime EM7305                 |
-| Display       | LVDS display 1366x768 (for fullHD del AAPL00)   |
+| Display       | LVDS or eDP display   (for fullHD del AAPL00)   |
 
+## Used kexts
 
 ## Prerequisites
 
