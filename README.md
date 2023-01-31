@@ -19,7 +19,22 @@ for install need add new macmodel and serial
 ## Used kexts
 
 ## Prerequisites
+BIOS/UEFI settings
 
+Change the following settings before you boot into the macOS installer:
+
+Exit → System Defaults [F9]: Yes
+Security → Secure Boot: Disabled
+Power Managements → Wake Up LAN: Disabled
+Power Managements → Wake On Keyboard: Disabled
+Power Managements → Critical Battery Wake Up: Enabled
+Power Managements → Panel Open Power On: Disabled
+Power Managements → Power On By AC: Disabled
+Power Managements → Dynamic CPU Frequency Mode: Dynamic Switch
+Power Managements → Intel Turbo Boost: Enabled
+Power Managements → SATA Interface Technology: Performance
+Advanced → USB Power in Sleep Mode: Disabled
+Advanced \ System Configuration → Boot Mode: UEFI Boot
 ## Credits
 
 - [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/)
